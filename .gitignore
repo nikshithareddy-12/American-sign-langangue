@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+dataset/
+dataset_v2/
+cleaned_dataset/
+cleaned_dataset_v2/
+quality_flags/
+*.npy
+models/asl_model.keras
